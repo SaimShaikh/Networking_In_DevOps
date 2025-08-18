@@ -13,3 +13,26 @@ Networking in DevOps is the practice of designing, configuring, automating, and 
 
 <img width="2602" height="869" alt="image" src="https://github.com/user-attachments/assets/c2c4941c-74a7-45de-a655-2d3488276733" />
 
+ ### Here’s is the Details flow
+ 1. User (Your Device) :
+    - when You type a URL like www.google.com in your browser.
+    -  Your Browser prepares a request (HTTP/HTTPS) and needs the severs ip address to send it
+ 2. Router (Home/Office) :
+    - Your Request first goes to your local router.
+    - Then router :
+    - assign your private IP address like 192.168.x.x
+    - Uses NAT (Network Address Translation) to map your private IP to public (Given by ISP)
+    - This is Necessary because private IPs can’t used directly on the Internet 
+ 3.  ISP (Interest Service Provider) :
+   - The Request then goes to your ISP (Jio ,BSNL,VI).
+   - The ISP does two main jobs
+   - 1 Provides You a Public IP address to access the internet
+   - 2 Forward your request into larger internet infrastructure 
+ 
+ 4. DNS (Domain Name System) :
+   - Your ISP checks if it already know the ip www.google.com
+   - The DNS translates the domain name into an IP address (like 142.250.190.78) so computers can locate the server.
+ 5.  Web Server (Destination Server)
+   - The Packets finally reach Google Data Centers
+   - Google Servers receive the request and prepare a respons (search home page html)
+ 6. Return to user using same path      
