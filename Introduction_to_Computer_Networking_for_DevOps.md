@@ -11,4 +11,5 @@ Networking in DevOps is the practice of designing, configuring, automating, and 
 -  when you request a website your device sends data and passes through routers .
 -  And DNS (Domain Name System ) to locate the server and the server responds with the requested data using protocols like TCP/IP
 
-< img width="2602" height="869" alt="image" src="https://github.com/user-attachments/assets/7cf9a33c-8f98-4d46-9859-4c4134fb6b55" />
+<img width="2602" height="869" alt="image" src="https://github.com/user-attachments/assets/c2c4941c-74a7-45de-a655-2d3488276733" />
+
