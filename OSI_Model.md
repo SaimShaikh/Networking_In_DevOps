@@ -2,3 +2,7 @@
 
 ---
 # OSI MODEL WITH DETAILS 
+
+## What is OSI Model 
+- OSI model stands for open system interconnection
+- OSI Model is a way to explain how computers talk to each other over the network by breaking the process into seven simple steps or called layer.
