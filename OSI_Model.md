@@ -49,6 +49,46 @@
 
 ---
 
-4. Transport Layer:
+4. Transport Layer :
 - Transport Layer is responsible for the end-to-end communication between the two devices.
-- This Included taking data form sessions layer  
+- This Included taking data form sessions layer braking it up into chunks called segments before sending to the layer 3
+- The Transport layer is also responsible for flow control and error controls
+- It ensures reliable delivery with error checking acknowledgement and retransmission id needed
+- Protocol: TCP , UDP
+- eg:
+    - TCP :  Used in email , web Browsing (Guaranteed Delivery )
+    - UDP :  Used in online gaming , video streaming (Speed over reliability but **No Guaranteed Delivery**).    
+
+---
+
+5. Network Layer :
+- This Layer play key role in data transmissions.
+- The main job of this layer is maintain the quality of the data and pass and transmit if from source to destinations .
+- It also handles routing which means that it chooses the best path to transmit the data from the source to destinations.
+- Protocol: IP(IPv4 and IPv6) ICMP ,OSPE ,BGP.
+    - What is dose :
+        - Break data into packets.
+        - Assigne IP Address
+        - Decides the best path (Routing) for data.
+- eg:
+    - When you open Google , your request travel through multiple routers across the internet to research google servers.
+
+---
+
+6. Data Link Layer :
+- Data Link Layer is very similar to network layer.
+- This layer responsible for node-to-node delivery on the same network.
+- The data link layer takes packets from the network layer and breaks them into smaller pieces called frames
+- Like the network layer the data link layer is also responsible for flow control and error controls
+- Protocol: Ethernet , PPP ,ARP.
+- eg:
+    - If two PC in the same office LAN communicate the data link layer ensure the data reaches the correct pc using its MAC address
+
+---
+
+7. Physical Layer :
+- This Layer includes the physical equipment involved in data transfer such as the cable and switch.
+- This Responsibility of this layer transmit raw bits (0 and 1) as a electrical signals , light pules or radio waves.
+- This layer deals with Hardware , cables ,connectors , voltage ,data refers , topology.
+- eg:
+   - When you connect your laptop with a LAN the physical layer ensures signals travel through the wires.   
