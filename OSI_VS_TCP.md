@@ -1,5 +1,7 @@
 # 📊 OSI vs TCP/IP Model Comparison
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9b5bdcf7-240a-4fdd-b046-27acd2aa911b" />
+
 ---
 
 | Aspect                  | **OSI Model**                                                                                                                    | **TCP/IP Model**                                                                                   |
