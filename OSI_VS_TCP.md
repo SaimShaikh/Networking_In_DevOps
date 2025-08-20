@@ -1,3 +1,3 @@
-| Column 1 | Column 2 |
+| OSI Model  | TCP/IP Model |
 | --- | --- |
-| Row 1 Col 1 | Row 1 Col 2 |
+| OS | Row 1 Col 2 |
