@@ -5,6 +5,8 @@
 
 ## What is OSI Model 
 - OSI model stands for open system interconnection
+- Developed by ISO (International Standards Organization) in 1977
+- General, theoretical model to understand and design networks.
 - OSI Model is a way to explain how computers talk to each other over the network by breaking the process into seven simple steps or called layer.
 
 ## 7 Layer in Depth 
