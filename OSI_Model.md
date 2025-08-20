@@ -12,8 +12,9 @@
 ---
 
 1. Application Layer :
-- The Applications Layer of OSI model is the top layer in this model and takes care of network communication .
+- The Application Layer is the top layer of the OSI model and is responsible for providing services that allow user applications to communicate over the network.
 - This Application layer provides the functionality to send and receive data from users
+- It does not handle the actual data transfer itself, but relies on lower layers
   - What it does:
      - Interface directly with user software
      - Provides service like eamil,web browsers file transfer
@@ -25,14 +26,14 @@
 ---
 
 2. Presentation Layer (Layer 6) :
-- Translate data into a formal the application can understand
+- Translate data into a format the application can understand
 - Presentation layer is responsible for translation encryption and compression of data.
     - what is does:
       - Data translation
       - Data Compress (reduce the size for transmission )
       - Data encryption / Decryption (SSL/TLS)
 - eg:
-    - When you vist on HTTPS website , encryption & decryption happens here.
+    - When you vist on HTTPS website ,Compression, Decryption happens here (SSL/TLS).
 
 ---
 
@@ -40,6 +41,7 @@
 - Session Layer responsible for opening and closings communication between two devices
 - The time between when the Communications is opend and closed is known as sessions.
 - This keeps track of your connections so multiple requests (Homepage , Videos ,ads are managed in organised way)
+- It is responsible for authentication, session checkpointing, and recovery if connections are lost.
     - What is does:
        - Establishes , Maintain and Terminates session.
        - Synchronizes dialogue between two applications.
@@ -51,9 +53,9 @@
 
 4. Transport Layer :
 - Transport Layer is responsible for the end-to-end communication between the two devices.
-- This Included taking data form sessions layer braking it up into chunks called segments before sending to the layer 3
+- This Included taking data form sessions layer breaking it into chunks called segments before sending to the layer 3
 - The Transport layer is also responsible for flow control and error controls
-- It ensures reliable delivery with error checking acknowledgement and retransmission id needed
+- It ensures reliable delivery with error checking acknowledgement and retransmission if needed.
 - Protocol: TCP , UDP
 - eg:
     - TCP :  Used in email , web Browsing (Guaranteed Delivery )
@@ -65,7 +67,7 @@
 - This Layer play key role in data transmissions.
 - The main job of this layer is maintain the quality of the data and pass and transmit if from source to destinations .
 - It also handles routing which means that it chooses the best path to transmit the data from the source to destinations.
-- Protocol: IP(IPv4 and IPv6) ICMP ,OSPE ,BGP.
+- Protocol: IP(IPv4 and IPv6) ICMP ,OSPF ,BGP.
     - What is dose :
         - Break data into packets.
         - Assigne IP Address
@@ -77,9 +79,10 @@
 
 6. Data Link Layer :
 - Data Link Layer is very similar to network layer.
-- This layer responsible for node-to-node delivery on the same network.
+- The Data Link Layer ensures node-to-node delivery within the same network using MAC addresses.
 - The data link layer takes packets from the network layer and breaks them into smaller pieces called frames
 - Like the network layer the data link layer is also responsible for flow control and error controls
+- It organizes data into frames and provides error detection using mechanisms like CRC.
 - Protocol: Ethernet , PPP ,ARP.
 - eg:
     - If two PC in the same office LAN communicate the data link layer ensure the data reaches the correct pc using its MAC address
