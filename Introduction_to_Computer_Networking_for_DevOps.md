@@ -14,7 +14,7 @@ Networking in DevOps is the practice of designing, configuring, automating, and 
  <img width="2611" height="1627" alt="image" src="https://github.com/user-attachments/assets/7770bf22-b23f-492a-9d37-94d084ade5cc" />
 
 
-# But Now We Have Starlink 
+# But Now We Have Starlink (website link - https://www.starlink.com/us/technology)
 <img width="3029" height="1293" alt="image" src="https://github.com/user-attachments/assets/f110c809-b6d5-4022-a9ba-d1a0f2bf1dda" />
 
 # How Internets Works 
