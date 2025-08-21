@@ -6,6 +6,17 @@ Networking in DevOps is the practice of designing, configuring, automating, and 
  A Network is a collection of interconnected devices like computers , servers , switches and routers that communicate with each other to share resources , data and service .
  <img width="2556" height="1264" alt="image" src="https://github.com/user-attachments/assets/ed73c903-a075-4c39-b7c4-0786c2491592" />
 
+# Satellite System 
+<img width="1456" height="695" alt="image" src="https://github.com/user-attachments/assets/d91a1f98-dfd0-4ee4-9473-86685dd5dd3b" />
+
+
+# The Solution Underwater Cable Map
+ <img width="2611" height="1627" alt="image" src="https://github.com/user-attachments/assets/7770bf22-b23f-492a-9d37-94d084ade5cc" />
+
+
+# But Now We Have Starlink 
+<img width="3029" height="1293" alt="image" src="https://github.com/user-attachments/assets/f110c809-b6d5-4022-a9ba-d1a0f2bf1dda" />
+
 # How Internets Works 
 - The Internet Works by connecting millions of devices worldwide through a system of network .
 -  when you request a website your device sends data and passes through routers .
