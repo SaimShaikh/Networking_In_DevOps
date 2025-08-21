@@ -73,3 +73,5 @@ An IP address consists of:
   -Network Portion: Identifies the network.
   -Host Portion: Identifies the device within that network.
 Subnet masks define how much of the address is used for the network vs. host.
+
+<img width="2841" height="1612" alt="image" src="https://github.com/user-attachments/assets/7428b72a-9c07-4cdc-9b1d-16f141bc22cf" />
