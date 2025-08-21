@@ -10,7 +10,7 @@ Networking in DevOps is the practice of designing, configuring, automating, and 
 <img width="1456" height="695" alt="image" src="https://github.com/user-attachments/assets/d91a1f98-dfd0-4ee4-9473-86685dd5dd3b" />
 
 
-# The Solution Underwater Cable Map
+# The Solution Underwater Cable Map (website link - https://www.submarinecablemap.com/)
  <img width="2611" height="1627" alt="image" src="https://github.com/user-attachments/assets/7770bf22-b23f-492a-9d37-94d084ade5cc" />
 
 
