@@ -1,6 +1,6 @@
 # Domain Name System (DNS)
 - The Domain Name System (DNS) is a hierarchical, distributed naming system for the Internet
-- In practice, DNS acts like the Internet’s phonebook: it maps easy-to-remember domain names (like www.example.com) to machine-readable IP addresses (like 93.184.216.34)
+- In practice, DNS acts like the Internet’s phonebook: it maps easy-to-remember domain names (like www.youtube.com) to machine-readable IP addresses (like 93.184.216.34)
 - Every Internet-connected device has a numeric IP address, but humans think in names. DNS automates the translation so users can type names and browsers still locate the right server. In other words, DNS lets you use human-friendly domain names instead of memorizing complex number strings
 
 ---
