@@ -18,7 +18,8 @@
 When you enter a website URL, DNS resolution happens “behind the scenes” to find the site’s server. Think of your browser’s DNS resolver as a librarian, root servers as the library’s index, and the domain’s name servers as the specific book. In this analogy, the resolver (librarian) checks first if it already “knows” the address (cache); otherwise it asks higher authorities. For example, the root server acts like a library index pointing to the right bookshelf (the Top-Level Domain servers), which in turn point to the specific book (the authoritative nameserver) that contains the exact address
 
 ## DNS Architecture
-<img width="1981" height="1477" alt="image" src="https://github.com/user-attachments/assets/f5a8a985-85f0-4ed4-a886-3bd1a52e400b" />
+<img width="2187" height="1617" alt="image" src="https://github.com/user-attachments/assets/931c65ca-6296-4f91-93b8-9db8b4044611" />
+
 
 1. Local query: The user’s computer (browser/OS) generates a DNS query for the domain (e.g. www.youtube.com)
    The system first checks its own cache (and then the ISP’s or configured resolver’s cache).
