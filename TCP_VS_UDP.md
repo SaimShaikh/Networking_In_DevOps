@@ -1,4 +1,4 @@
-# TCP vs UDP: A Simple Guide for Everyone
+# TCP vs UDP
 
 ## Quick Overview
 
