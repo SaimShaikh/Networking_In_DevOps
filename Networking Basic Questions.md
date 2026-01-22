@@ -459,3 +459,7 @@ An Access Control List is a list of rules used to permit or deny network traffic
 
 ---
 
+## 29) What is Port Security?
+Port security is a mechanism on switches that limits access to a port by allowing only specific MAC addresses and taking action if an unauthorized device connects
+
+---
