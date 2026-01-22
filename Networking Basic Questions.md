@@ -273,7 +273,7 @@ CIDR allows flexible and efficient IP address allocation and is widely used in c
 
 A public IP address is a globally unique address that allows a device to be accessed over the internet, while a private IP address is used within an internal network and is not directly reachable from the internet.  
 
-Private IP addresses improve security and efficiency, and in cloud environments, public IPs are typically used for internet-facing services while private IPs are used for internal communication.
+Private IP addresses are reserved IP ranges used for internal networking and are not routable over the public internet. Private IP addresses improve security and efficiency, and in cloud environments, public IPs are typically used for internet-facing services while private IPs are used for internal communication.
 
 ---
 
@@ -428,3 +428,34 @@ SSL is the older term, while TLS is the modern and secure standard used today.
 - Secure communication begins  
 
 ---
+
+## 24) What is a Protocol?
+A protocol is a set of rules that defines how data is sent, received, and understood between systems on a network.
+
+---
+
+## 25) Different Types of Network Protocols
+| Class       | Private IP Range                | CIDR             |
+| ----------- | ------------------------------- | ---------------- |
+| **Class A** | `10.0.0.0 – 10.255.255.255`     | `10.0.0.0/8`     |
+| **Class B** | `172.16.0.0 – 172.31.255.255`   | `172.16.0.0/12`  |
+| **Class C** | `192.168.0.0 – 192.168.255.255` | `192.168.0.0/16` |
+
+If it starts with 10, 172.16–31, or 192.168 → it’s private.
+
+---
+
+## 26) What is a MAC Address?
+A MAC address is a 48-bit unique identifier assigned to a network interface, used for communication within a local network
+
+---
+
+## 27) What is the Loopback IP?
+The loopback IP is a special IP address used by a system to communicate with itself.
+
+---
+## 28) What is ACL?
+An Access Control List is a list of rules used to permit or deny network traffic based on parameters like IP address, protocol, and port number.
+
+---
+
