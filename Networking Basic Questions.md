@@ -24,7 +24,7 @@ They are essential for running multiple services on the same server and are wide
 
 ## 3) What is OSI Model and its layers
 
-The OSI model consists of seven layers:  
+The OSI (Open Systems Interconnection) model consists of seven layers:  
 Application, Presentation, Session, Transport, Network, Data Link, and Physical.  
 
 Each layer has a specific role in network communication, from user interaction to physical data transmission.  
