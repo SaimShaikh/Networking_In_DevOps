@@ -307,7 +307,8 @@ It is important because it makes the internet user-friendly, enables scalability
 
 ## 13) What is DNS Records
 
-DNS records are configuration entries stored in DNS servers that map domain names to IP addresses or other services.  
+Think of DNS like the contact list of the internet 📒
+You type a website name → DNS tells the internet where to go. 
 
 Common DNS records include A and AAAA records for IP mapping, CNAME for aliases, MX for email routing, NS for name servers, and TXT for verification and security purposes.  
 
