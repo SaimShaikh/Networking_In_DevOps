@@ -364,7 +364,7 @@ A VPN, or Virtual Private Network, creates a secure and encrypted connection bet
 
 ## 17) What is Gateway
 
-A gateway is a network component that connects one network to another and acts as the entry and exit point for traffic.  
+A gateway is a network component that connects one network to another and acts as the entry and exit point for traffic and allows a network to communicate with external networks.  
 
 A default gateway is used by devices to send traffic outside their local network.
 
