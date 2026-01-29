@@ -261,7 +261,7 @@ Subnetting helps to:
 
 ## 8) What is CIDR Block
 
-A CIDR block is a notation used to define a range of IP addresses and the size of a network.  
+A CIDR (Classless Inter-Domain Routing ) block is a notation used to define a range of IP addresses and the size of a network.  
 
 It uses an IP address followed by a prefix length, such as /24, to specify how many addresses belong to the network.  
 
