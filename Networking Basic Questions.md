@@ -358,9 +358,7 @@ It protects systems from unauthorized access by allowing only trusted traffic an
 
 ## 16) What is a VPN?
 
-A VPN (Virtual Private Network) is a secure, encrypted connection that allows users or networks to access private resources over the internet.  
-
-It protects data from interception and is commonly used for remote access and connecting on-premises networks to cloud environments.
+A VPN, or Virtual Private Network, creates a secure and encrypted connection between a user and a private network over the internet. It’s mainly used to protect data, ensure privacy, and allow secure remote access to internal systems.
 
 ---
 
