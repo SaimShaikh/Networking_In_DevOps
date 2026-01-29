@@ -394,7 +394,7 @@ Port forwarding redirects network traffic from one port to another, often used t
 
 ## 21) What is a Proxy Server?
 
-A proxy server is an intermediary that sits between a client and a destination server to forward requests and responses.  
+A proxy server is an Middle Server between a client and a destination server to forward requests and responses.  
 
 It is used for security, access control, caching, and traffic management.
 
