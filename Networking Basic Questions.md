@@ -433,7 +433,7 @@ A protocol is a set of rules that defines how data is sent, received, and unders
 
 ---
 
-## 25) Different Types of Network Protocols
+## 25) Range of Private IPs
 | Class       | Private IP Range                | CIDR             |
 | ----------- | ------------------------------- | ---------------- |
 | **Class A** | `10.0.0.0 – 10.255.255.255`     | `10.0.0.0/8`     |
