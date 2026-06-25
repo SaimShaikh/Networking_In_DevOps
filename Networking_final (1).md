@@ -7,6 +7,7 @@ Computer networking is the process of connecting computing devices (like compute
 ## How Networking Works
 
 ### Basic Network Architecture
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/e2eecdf3-0f56-44cb-ae01-6764cd52a799" />
 
 **How Data Travels:**
 
@@ -301,6 +302,7 @@ Host Bits = 32 - 20 = 12
 ---
 
 ## Subnetting
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e4cdd835-54e8-4905-b779-6827d3a744d9" />
 
 **Subnetting** is the logical process of dividing a single large IP network into multiple, smaller interconnected sub-networks called **subnets**. It works by "borrowing" bits from the host portion of an IP address to expand the network portion, allowing network administrators to segment traffic, optimize IP allocation, and boost performance.
 
