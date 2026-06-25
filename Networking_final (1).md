@@ -309,12 +309,14 @@ Host Bits = 32 - 20 = 12
 ### Why Do We Need Subnetting?
 
 **Without subnetting** — all devices share one network; every broadcast reaches every device:
+<img width="413" height="649" alt="image" src="https://github.com/user-attachments/assets/00f53fd2-071d-44b5-9082-b4c6996aa882" />
 
 ```
 All 155 devices → One Network
 ```
 
 **With subnetting** — each department gets its own network; broadcasts stay local:
+<img width="495" height="646" alt="image" src="https://github.com/user-attachments/assets/093f1051-eb90-462a-bbfb-4f879db17472" />
 
 ```
 HR Network
